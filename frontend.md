@@ -2,8 +2,6 @@
 
 These questions takes inspiration from this: https://roadmap.sh/frontend/latest
 
-As a developer, it is normal to don't know everything, especially by heart. This knowledge is something you should build with time and the following questions are an overview of the questions you might have during interviews.
-
 ## HTML
 ### What is the difference between `<div>` and `<h1>`?
 ### How does `<meta>` tags work?
