@@ -6,12 +6,17 @@ As a developer, it is normal to don't know everything, especially by heart. This
 
 ## HTML
 ### What is the difference between `<div>` and `<h1>`?
+### How does `<meta>` tags work?
+### True or false: A `<div>` can have more than one class.
+### What are some of the semantic elements added with HTML 5 and how do they work?
 
 ## CSS
 ### How does this selector mean: `foo bar`?
 ### How does this selector mean: `foo.bar`?
 ### How does this selector mean: `foo .bar`?
 ### How does this selector mean: `foo > .bar`?
+### What is the difference between `REM` and `EM`
+### How does block-elements and inline-elements differ?
 
 ## Basics of JavaScript
 ### In JS, how can you select the elemet with the id `root`?
@@ -38,4 +43,7 @@ As a developer, it is normal to don't know everything, especially by heart. This
 ### What are the different kind of tests?
 [](https://miro.medium.com/max/2400/1*S-WQ9KwM7kkmwKWy41SPYw.png)
 Explanation here: https://medium.com/@Colin_But/define-testing-strategy-using-the-testing-pyramid-1dabee37e823
+
+## Extra
+### What JavaScript library is required to implement JavaScript widgets such as Carousel, Collapse and Scrollspy
 
